@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-scrapingant",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "ScrapingAnt MCP — wraps the ScrapingAnt web scraping API (scrapingant.com)",
   "type": "module",
   "main": "src/index.ts",
@@ -24,5 +24,9 @@
   "devDependencies": {
     "typescript": "^5.9.3",
     "@cloudflare/workers-types": "^4.20260405.1"
+  },
+  "pipeworx": {
+    "sourceHash": "v1-474b4bb80dfba9fccb280c5e95165518329190f8dec56cc37896080c5e4a554e",
+    "sourceCommit": "00c836ddeaecbdd581dcfb0fb1842efea104006e"
   }
 }

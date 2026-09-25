@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/scrapingant",
   "title": "Scrapingant",
   "description": "ScrapingAnt MCP — wraps the ScrapingAnt web scraping API (scrapingant.com)",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/scrapingant",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-scrapingant",
