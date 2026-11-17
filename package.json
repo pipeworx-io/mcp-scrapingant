@@ -1,7 +1,7 @@
 {
   "name": "@pipeworx/mcp-scrapingant",
-  "version": "0.2.1",
-  "description": "ScrapingAnt MCP — wraps the ScrapingAnt web scraping API (scrapingant.com)",
+  "version": "0.2.2",
+  "description": "Unofficial ScrapingAnt MCP — wraps the ScrapingAnt web scraping API (scrapingant.com)",
   "type": "module",
   "main": "lib/index.js",
   "exports": {
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "scrapingant",
     "gatewaySlug": "scrapingant",
-    "sourceHash": "v1-5409d7a51f6c3109582437a7e21dd60506fce44371371c36506f9ebeeb21039e",
-    "sourceCommit": "8fc802aa5e23be625ce08d97178f5676c7bc93f3"
+    "sourceHash": "v1-10cdfe25dbc616ad316d729b017edbb653e2a860b985b6e6f8486d0e59329cd9",
+    "sourceCommit": "6e7ae693219a515a7ee6dd88d02390ab290fbad3"
   }
 }
